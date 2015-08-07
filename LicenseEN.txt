@@ -1,0 +1,5 @@
+﻿Virtual Dimension, Copyright (C) 2003 Francois Ferrand. Licensed under the terms of the GNU General Public License.
+
+Virtual Dimension comes with ABSOLUTELY NO WARRANTY. This is free software, and you are welcome to redistribute it under certain conditions. See the GNU General Public License for details.
+
+The virtual dimension logo was kindly contributed by agr3kko, based on a GPL icon from the Redhat theme "Bluecurve", by Garrett LeSage.
