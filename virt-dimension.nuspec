@@ -22,19 +22,12 @@ Add a new dimension to your Windows environment with multiple desktops.
     </description>
     <projectUrl>http://virt-dimension.sourceforge.net/</projectUrl>
     <packageSourceUrl>https://sourceforge.net/project/showfiles.php?group_id=74581</packageSourceUrl>
-    <!--<projectSourceUrl></projectSourceUrl>
-    <docsUrl></docsUrl>
-    <mailingListUrl></mailingListUrl>
-    <bugTrackerUrl></bugTrackerUrl>-->
     <tags>virt-dimension admin virtual desktop manager</tags>
     <copyright>Virtual Dimension, Copyright (C) 2003 Francois Ferrand. Licensed under the terms of the GNU General Public License.</copyright>
     <licenseUrl>http://virt-dimension.sourceforge.net/#license</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <!--<iconUrl>http://cdn.rawgit.com/virt-dimension/master/icons/virt-dimension.png</iconUrl>-->
-    <!--<dependencies>
-    </dependencies>-->
+    <iconUrl>https://cdn.rawgit.com/enogrob/virt-dimension/master/virt-dimension.png</iconUrl>
     <releaseNotes></releaseNotes>
-    <!--<provides></provides>-->
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
